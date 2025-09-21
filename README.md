@@ -54,8 +54,8 @@ Thus the open loop and closed loop system are analysed and the following conclus
 Steady State Error = 0.95
 Settling Time = 2.01s
 ### Closed loop System
-Steady State Error = 0.863
-Settling Time = 0.3s
+Steady State Error = 0.3
+Settling Time = 0.863s
 
 
 
